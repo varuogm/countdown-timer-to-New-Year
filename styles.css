@@ -21,7 +21,7 @@ body {
 h1 {
     font-size: 4rem;
     margin-top: -10rem;
-    text-shadow: -4px 3px 6px #ff0c4f54;
+    text-shadow: -4px -1px 20px #c509dc4f;
 }
 .countdown-container {
 display: flex;
