@@ -7,7 +7,7 @@
 body {
     /*background-image:url("https://images.unsplash.com/photo-1593936639737-35be481dc1d0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzAzfHxuZXclMjB5ZWFyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
    
-    */ background-image:url("/countdown-timer/torspomedia-zvW3mkPDo14-unsplash.jpg");
+    */ background-image:url("torspomedia-zvW3mkPDo14-unsplash.jpg");
     background-size: cover;
     background-position: center center;
     display: flex;
